@@ -1,18 +1,18 @@
 nav:
-  - title: "Services"
-    section: services
+  # - title: "Services"
+  #   section: services
 
-  - title: "Product"
-    section: portfolio
+  # - title: "Product"
+  #   section: portfolio
 
-  - title: "About"
-    section: timeline
-
-  - title: "Team"
-    section: team
-
-  - title: "Contact"
-    section: contact
+  # - title: "About"
+  #   section: timeline
+  #
+  # - title: "Team"
+  #   section: team
+  #
+  # - title: "Contact"
+  #   section: contact
 
   - title: "Source code"
     url: https://github.com/kjelland/dragonfly
